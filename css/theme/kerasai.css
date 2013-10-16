@@ -124,3 +124,8 @@ html {
     line-height: 2em;
     list-style-type: none;
 }
+
+.reveal .about ul img {
+    position: relative;
+    top: 0.3em;
+}
